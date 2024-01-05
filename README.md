@@ -8,3 +8,4 @@
    node index.js        [ENTER]
 5. Then ENTER the URL   [ENTER]
 6. Then There would be a file called qr-img.png 
+![Screenshot 2024-01-05 173526](https://github.com/ss0395478/QR-Code-Generator/assets/103622956/8ae4d329-c55b-4778-8a6b-073a3389c342)
