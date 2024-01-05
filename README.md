@@ -11,3 +11,11 @@
 7. For Downloading the packages which are used here: 
    npm i inquirer qr-image 
 ![Screenshot 2024-01-05 173526](https://github.com/ss0395478/QR-Code-Generator/assets/103622956/8ae4d329-c55b-4778-8a6b-073a3389c342)
+
+
+
+
+
+
+![qr-img](https://github.com/ss0395478/QR-Code-Generator/assets/103622956/3ec27d84-4c6a-478d-b81c-a2f0dd81a48b)
+
